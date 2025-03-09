@@ -78,7 +78,7 @@ export const assets = {
 	right_arrow_bold_dark,
 };
 
-/* Export workdata object */
+/* Export workdata for workcard */
 export const workData = [
 	{
 		title: "Frontend project",
@@ -102,7 +102,7 @@ export const workData = [
 	},
 ];
 
-/* Export servicedata object */
+/* Export servicedata  */
 export const serviceData = [
 	{
 		icon: assets.web_icon,
@@ -132,7 +132,7 @@ export const serviceData = [
 	},
 ];
 
-/* Export assets infolist */
+/* Export infolist */
 export const infoList = [
 	{
 		icon: assets.code_icon,
@@ -154,7 +154,7 @@ export const infoList = [
 	},
 ];
 
-/* Export assets toolsdata */
+/* Export  toolsdata */
 export const toolsData = [
 	assets.vscode,
 	assets.firebase,
